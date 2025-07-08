@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/page/" />
+    <script>
+      const path = location.pathname.replace('/page', '');
+      const hash = '#'+path;
+      location.replace('/page/' + hash);
+    </script>
   </head>
   <body></body>
 </html>
