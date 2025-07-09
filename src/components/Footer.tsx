@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Logo and description */}
           <div className="md:col-span-2">
             <img 
-              src="/lovable-uploads/31db895c-97d1-44ab-a7aa-678429695817.png" 
+              src="public/images/nexu-bg.png" 
               alt="Nexu Assessoria"
               className="h-12 w-auto mb-6"
             />
