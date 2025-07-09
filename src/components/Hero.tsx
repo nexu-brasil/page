@@ -49,19 +49,12 @@ const Hero = () => {
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Button>
               
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="border-2 border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black px-8 py-3 text-lg transition-all duration-300"
-              >
-                Ver Nossos Cases
-              </Button>
             </div>
             
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-gray-700">
               <div className="text-center">
-                <div className="text-3xl font-bold text-yellow-400">500+</div>
-                <div className="text-sm text-gray-400">Clientes Atendidos</div>
+                <div className="text-3xl font-bold text-yellow-400">2M+</div>
+                <div className="text-sm text-gray-400">Faturados</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-yellow-400">250%</div>
