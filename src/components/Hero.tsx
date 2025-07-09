@@ -23,7 +23,7 @@ const Hero = () => {
           <div className="lg:w-1/2 mb-12 lg:mb-0">
             <div className="mb-8">
               <img 
-                src="/images/nexu-bg.png" 
+                src={`${import.meta.env.BASE_URL}images/nexu-bg.png`} 
                 alt="Nexu Assessoria"
                 className="h-16 w-auto mb-6"
               />
