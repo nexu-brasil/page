@@ -18,11 +18,8 @@ const Footer = () => {
               e resultados mensuráveis. Sua parceira no crescimento digital.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="bg-blue-600 p-3 rounded-full hover:bg-blue-700 transition-colors">
+              <a href="https://www.instagram.com/assessorianexu/" className="bg-blue-600 p-3 rounded-full hover:bg-blue-700 transition-colors">
                 <Instagram className="h-5 w-5" />
-              </a>
-              <a href="#" className="bg-blue-600 p-3 rounded-full hover:bg-blue-700 transition-colors">
-                <Linkedin className="h-5 w-5" />
               </a>
             </div>
           </div>
